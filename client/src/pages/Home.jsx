@@ -9,7 +9,7 @@ const Home = () => {
       <Carousel />
       <GenInfo />
       <Brands />
-      <div className="md:w-full md:max-w-full xs:mx-2  sm:mx-auto ">
+      <div className="md:w-full md:max-w-full xs:mx-2  sm:mx-auto">
         <div className="prose prose-2xl">
           <BestSellers />
         </div>

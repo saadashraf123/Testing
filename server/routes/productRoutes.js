@@ -9,8 +9,7 @@ import {
     getTopRated,
     listOfProducts,
     searchProducts,
-}
-    from "../controllers/productControllers.js";
+} from "../controllers/productControllers.js";
 
 const router = express.Router();
 
